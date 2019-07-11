@@ -15,10 +15,11 @@ A Python Challenge For Josh
 1.  Your challenge requires a console zealot's dream of quickly locating CSS colors with only the touch of a single key. To
 accomplish this, you must first greet the user upon loading the program. The intro should be clearly visible, and I would 
 suggest trying to find and use the  `center()` feature built in to Python. 
-For example by creating a line like this:  
-> `'-'`  
+For example by creating a line like this:
+`'-'`  
+  
+...you could instead do something like this:  
 
-...you could instead do something like this:
 > `line = '-' * 40`  
 That way, you can then call `center()` function on a known length. This is **important** and can not be skipped. 
 First appearances are everything, you know.
